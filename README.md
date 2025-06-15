@@ -5,3 +5,6 @@ Fivem sunucularınız için destek bekleme kanalında giren kişileri sıralama 
 - Sıra 2'de bulunan kişi Sıra 1'e taşınır.
 - Sistem basic olarak yapılmıştır. Çıkan hatalar olabilir belli olmaz.
 - Öncelikle npm i ardından node . yaparak botu başlatabilirsiniz. 
+
+
+Destek : https://discord.gg/narcos
