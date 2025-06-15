@@ -1,0 +1,12 @@
+{
+  "name": "aris-destek-sira-sistemi",
+  "version": "1.0.0",
+  "description": "Discord sunucuları için destek bekleme sıralama sistemi.",
+  "main": "aris.js",
+  "scripts": {
+    "start": "node aris.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+} 
